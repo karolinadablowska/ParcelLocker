@@ -1,11 +1,11 @@
-//import org.junit.Test;
-//import static org.junit.Assert.assertEquals;
-//
-//
-//
-//public class ParcelLockerTest {
-//
-//    YourPackage yourPackage;
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+
+
+
+public class ParcelLockerTest {
+
+//    YourPackage yourPackage = new YourPackage();
 //    Book book;
 //
 //    @Test
@@ -17,4 +17,4 @@
 //
 //        assertEquals(1,howMany);
 //    }
-//}
+}
